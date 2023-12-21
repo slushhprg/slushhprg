@@ -1,4 +1,3 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:720/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">Hi 👋, I'm Marcelo Costa!</h1>
 <h3 align="center">A creative full-stack developer from Brazil!</h3>
 <img align="right" alt="Coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif"
