@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcelo Costa!</h1>
 <h3 align="center">A creative full-stack developer from Brazil!</h3>
-<img align="right" alt="Coding" width="400" src="https://www.guvi.in/blog/wp-content/uploads/2023/01/giphy.gif"
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slushhprg" alt="slushhprg" /></a> </p>
 
