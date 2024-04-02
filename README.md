@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcelo Costa!</h1>
 <h3 align="center">A creative full-stack developer from Brazil!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=slushhprg" alt="slushhprg" /></a> </p>
-
 - 🔭 I’m currently working @ **We Stand**
 
 - 🌱 I’m currently learning **React Native, Kotlin and TypeScript**
